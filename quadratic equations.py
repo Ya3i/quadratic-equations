@@ -1,3 +1,8 @@
+#Create by : Yasin Allahyari
+#instagram : @i._.ya3in
+#E-mail : Yasinallahyari@yahoo.com
+
+
 import math
 
 a = float(input("Enter coefficient a: "))
